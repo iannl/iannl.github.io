@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
+
+# https://github.com/iannl/robotstxt
+User-agent: *
+Disallow: /robotstxt/norobots/
+
 Sitemap: http://iannl.github.io/sitemap.xml
